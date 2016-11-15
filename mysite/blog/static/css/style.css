@@ -1,0 +1,16 @@
+body {
+    background-color: lightgrey;
+}
+
+.header {
+    padding: 60px 90px;
+    background-color: orange;
+}
+
+.content {
+    padding: 50px 50px;
+}
+
+a:link, a:visited, a:hover, a:active {
+    text-decoration: none;
+}
